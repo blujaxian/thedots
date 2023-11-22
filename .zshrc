@@ -105,5 +105,3 @@ source $ZSH/oh-my-zsh.sh
 # Install Ruby Gems to ~/gems
 GEM_HOME=$HOME/gems
 export PATH=$PATH:/home/blujaxian/.spicetify
-
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
